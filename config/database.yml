@@ -1,7 +1,7 @@
 development:
   adapter: postgresql
-  database: db/development.sqlite3
+  database: cricketusa
   pool: 5
   timeout: 5000
-  username: newuser
+  username: postgres
   password: password
